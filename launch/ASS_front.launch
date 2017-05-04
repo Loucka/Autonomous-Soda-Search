@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="ASS" type="ASS_search_node" name="ass_search" output="screen"/>
+	<node pkg="ASS" type="ASS_main_node" name="ass_main" output="screen"/>
+</launch>

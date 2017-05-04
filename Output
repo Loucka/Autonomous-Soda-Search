@@ -1,0 +1,608 @@
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493321670.521550017]: Navigated to known location
+[ INFO] [1493321670.521796632]: Scanning area 0
+[ INFO] [1493321671.521918131]: Scanning area 1
+[ INFO] [1493321672.521901646]: Scanning area 2
+[ INFO] [1493321673.521973726]: Scanning area 3
+[ INFO] [1493321674.521951347]: Scanning area 4
+[ INFO] [1493321675.521902423]: Scanning area 5
+[ INFO] [1493321676.521943362]: Scanning area 6
+[ INFO] [1493321677.521913543]: Scanning area 7
+[ INFO] [1493321678.521940800]: Scanning area 8
+[ INFO] [1493321679.521905089]: Scanning area 9
+[ INFO] [1493321680.521899752]: Scanning area 10
+[ INFO] [1493321681.521906500]: Scanning area 11
+[ INFO] [1493321682.521910775]: Scanning area 12
+[ INFO] [1493321683.521956837]: Scanning area 13
+[ INFO] [1493321684.521998436]: Scanning area 14
+[ INFO] [1493321685.521905086]: Scanning area 15
+[ INFO] [1493321686.522007179]: Scanning area 16
+[ INFO] [1493321687.521911104]: Scanning area 17
+[ INFO] [1493321688.521947686]: Scanning area 18
+[ INFO] [1493321689.521915623]: Scanning area 19
+[ INFO] [1493321690.521965129]: Scanning area 20
+[ INFO] [1493321691.521921774]: Scanning area 21
+[ INFO] [1493321692.521902924]: Scanning area 22
+[ INFO] [1493321693.521977080]: Scanning area 23
+[ INFO] [1493321694.521867037]: Scanning area 24
+[ INFO] [1493321695.521910879]: Scanning area 25
+[ INFO] [1493321696.521939876]: Scanning area 26
+[ INFO] [1493321697.521916466]: Scanning area 27
+[ INFO] [1493321698.521935478]: Scanning area 28
+[ INFO] [1493321699.521940355]: Scanning area 29
+[ INFO] [1493321700.521937237]: Scanning area 30
+[ INFO] [1493321701.522640617]: Scanning area 31
+[ INFO] [1493321702.521924931]: Scanning area 32
+[ INFO] [1493321703.521963145]: Scanning area 33
+[ INFO] [1493321704.521975053]: Scanning area 34
+[ INFO] [1493321705.521925566]: Scanning area 35
+[ INFO] [1493321706.521978936]: Scanning area 36
+[ INFO] [1493321707.521946741]: Scanning area 37
+[ INFO] [1493321708.521950561]: Scanning area 38
+[ INFO] [1493321709.522103635]: Scanning area 39
+[ INFO] [1493321710.521907412]: Scanning area 40
+[ INFO] [1493321711.521936146]: Scanning area 41
+[ INFO] [1493321712.521986733]: Scanning area 42
+[ INFO] [1493321713.521954586]: Scanning area 43
+[ INFO] [1493321714.521946513]: Scanning area 44
+[ INFO] [1493321715.521920474]: Scanning area 45
+[ INFO] [1493321716.521978454]: Scanning area 46
+[ INFO] [1493321717.521907269]: Scanning area 47
+[ INFO] [1493321718.522081355]: Scanning area 48
+[ INFO] [1493321719.521905103]: Scanning area 49
+[ INFO] [1493321720.521902274]: Scanning area 50
+[ INFO] [1493321721.521901269]: Scanning area 51
+[ INFO] [1493321722.523448387]: Scanning area 52
+[ INFO] [1493321723.521901889]: Scanning area 53
+[ INFO] [1493321724.521921633]: Scanning area 54
+[ INFO] [1493321725.521900779]: Scanning area 55
+[ INFO] [1493321726.521942616]: Scanning area 56
+[ INFO] [1493321727.521917935]: Scanning area 57
+[ INFO] [1493321728.521909838]: Scanning area 58
+[ INFO] [1493321729.521935859]: Scanning area 59
+[ INFO] [1493321730.521918725]: No Soda Found..
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493321797.087664565]: Navigated to known location
+[ INFO] [1493321797.087805118]: Scanning area 0
+[ INFO] [1493321798.087960759]: Scanning area 1
+[ INFO] [1493321799.087907119]: Scanning area 2
+[ INFO] [1493321800.087904938]: Scanning area 3
+[ INFO] [1493321801.087982059]: Scanning area 4
+[ INFO] [1493321802.087913010]: Scanning area 5
+[ INFO] [1493321803.087970124]: Scanning area 6
+[ INFO] [1493321804.087911660]: Scanning area 7
+[ INFO] [1493321805.087907812]: Scanning area 8
+[ INFO] [1493321805.693722413]: Found Object
+[ INFO] [1493321805.693807019]: Stopping...
+[ INFO] [1493321806.087908379]: Scanning area 9
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493321831.996920580]: Navigated to known location
+[ INFO] [1493321831.996999101]: Scanning area 0
+[ INFO] [1493321832.997197417]: Scanning area 1
+[ INFO] [1493321833.997169722]: Scanning area 2
+[ INFO] [1493321834.997111102]: Scanning area 3
+[ INFO] [1493321835.997169261]: Scanning area 4
+[ INFO] [1493321836.997108085]: Scanning area 5
+[ INFO] [1493321837.997127002]: Scanning area 6
+[ INFO] [1493321838.997132069]: Scanning area 7
+[ INFO] [1493321839.997108946]: Scanning area 8
+[ INFO] [1493321840.997405896]: Scanning area 9
+[ INFO] [1493321841.997129415]: Scanning area 10
+[ INFO] [1493321842.997195795]: Scanning area 11
+[ INFO] [1493321843.997173884]: Scanning area 12
+[ INFO] [1493321844.997120256]: Scanning area 13
+[ INFO] [1493321845.997136568]: Scanning area 14
+[ INFO] [1493321846.997114959]: Scanning area 15
+[ INFO] [1493321847.997121635]: Scanning area 16
+[ INFO] [1493321848.997446775]: Scanning area 17
+[ INFO] [1493321849.997105524]: Scanning area 18
+[ INFO] [1493321850.997116232]: Scanning area 19
+[ INFO] [1493321851.997116391]: Scanning area 20
+[ INFO] [1493321852.997136796]: Scanning area 21
+[ INFO] [1493321853.997280089]: Scanning area 22
+[ INFO] [1493321854.997222080]: Scanning area 23
+[ INFO] [1493321855.997164660]: Scanning area 24
+[ INFO] [1493321856.997116409]: Scanning area 25
+[ INFO] [1493321857.997126900]: Scanning area 26
+[ INFO] [1493321858.997130912]: Scanning area 27
+[ INFO] [1493321859.850709560]: Found Object
+[ INFO] [1493321859.851038477]: Stopping...
+[ INFO] [1493321859.997157364]: Scanning area 28
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493321884.627520749]: Navigated to known location
+[ INFO] [1493321884.627668575]: Scanning area 0
+[ INFO] [1493321885.627822536]: Scanning area 1
+[ INFO] [1493321886.628238414]: Scanning area 2
+[ INFO] [1493321887.627778812]: Scanning area 3
+[ INFO] [1493321888.627824082]: Scanning area 4
+[ INFO] [1493321889.462809129]: Found Object
+[ INFO] [1493321889.463006769]: Stopping...
+[ INFO] [1493321889.627780991]: Scanning area 5
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 0
+Searching for Pepsi
+[ INFO] [1493321956.691461449]: Navigated to known location
+[ INFO] [1493321956.691559855]: Scanning area 0
+[ INFO] [1493321957.691782112]: Scanning area 1
+[ INFO] [1493321958.691672609]: Scanning area 2
+[ INFO] [1493321959.691733432]: Scanning area 3
+[ INFO] [1493321960.691672231]: Scanning area 4
+[ INFO] [1493321961.691824467]: Scanning area 5
+[ INFO] [1493321962.691661209]: Scanning area 6
+[ INFO] [1493321963.691714424]: Scanning area 7
+[ INFO] [1493321964.691709375]: Scanning area 8
+[ INFO] [1493321965.691666055]: Scanning area 9
+[ INFO] [1493321966.691678779]: Scanning area 10
+[ INFO] [1493321967.691683607]: Scanning area 11
+[ INFO] [1493321968.691659250]: Scanning area 12
+[ INFO] [1493321969.691671326]: Scanning area 13
+[ INFO] [1493321970.691657336]: Scanning area 14
+[ INFO] [1493321971.691696269]: Scanning area 15
+[ INFO] [1493321972.691726395]: Scanning area 16
+[ INFO] [1493321973.691669947]: Scanning area 17
+[ INFO] [1493321974.691682323]: Scanning area 18
+[ INFO] [1493321975.691679002]: Scanning area 19
+[ INFO] [1493321976.691677385]: Scanning area 20
+[ INFO] [1493321977.254737391]: Found Object
+[ INFO] [1493321977.254852359]: Stopping...
+[ INFO] [1493321977.691682116]: Scanning area 21
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 3
+Searching for Dr. Pepper
+[ INFO] [1493321999.320208655]: Navigated to known location
+[ INFO] [1493321999.320286048]: Scanning area 0
+[ INFO] [1493322000.321130905]: Scanning area 1
+[ INFO] [1493322001.320591054]: Scanning area 2
+[ INFO] [1493322002.320519461]: Scanning area 3
+[ INFO] [1493322003.320413462]: Scanning area 4
+[ INFO] [1493322004.320484617]: Scanning area 5
+[ INFO] [1493322005.320405692]: Scanning area 6
+[ INFO] [1493322006.320393407]: Scanning area 7
+[ INFO] [1493322007.320441161]: Scanning area 8
+[ INFO] [1493322008.320413011]: Scanning area 9
+[ INFO] [1493322009.320423610]: Scanning area 10
+[ INFO] [1493322010.320455248]: Scanning area 11
+[ INFO] [1493322011.320441498]: Scanning area 12
+[ INFO] [1493322012.320396211]: Scanning area 13
+[ INFO] [1493322013.320466995]: Scanning area 14
+[ INFO] [1493322014.320404762]: Scanning area 15
+[ INFO] [1493322015.320411846]: Scanning area 16
+[ INFO] [1493322016.320406161]: Scanning area 17
+[ INFO] [1493322017.320458235]: Scanning area 18
+[ INFO] [1493322018.320727884]: Scanning area 19
+[ INFO] [1493322019.320407263]: Scanning area 20
+[ INFO] [1493322020.320456529]: Scanning area 21
+[ INFO] [1493322021.320406478]: Scanning area 22
+[ INFO] [1493322022.320463677]: Scanning area 23
+[ INFO] [1493322023.320441658]: Scanning area 24
+[ INFO] [1493322024.320393718]: Scanning area 25
+[ INFO] [1493322025.320398858]: Scanning area 26
+[ INFO] [1493322026.320552819]: Scanning area 27
+[ INFO] [1493322027.320479078]: Scanning area 28
+[ INFO] [1493322028.320404210]: Scanning area 29
+[ INFO] [1493322029.321482145]: Scanning area 30
+[ INFO] [1493322030.320470064]: Scanning area 31
+[ INFO] [1493322031.320468387]: Scanning area 32
+[ INFO] [1493322032.320408662]: Scanning area 33
+[ INFO] [1493322033.320449300]: Scanning area 34
+[ INFO] [1493322034.320478934]: Scanning area 35
+[ INFO] [1493322035.320400440]: Scanning area 36
+[ INFO] [1493322036.320406072]: Scanning area 37
+[ INFO] [1493322037.320444789]: Scanning area 38
+[ INFO] [1493322038.320410663]: Scanning area 39
+[ INFO] [1493322039.320436468]: Scanning area 40
+[ INFO] [1493322040.320506724]: Scanning area 41
+[ INFO] [1493322041.320396188]: Scanning area 42
+[ INFO] [1493322042.320399779]: Scanning area 43
+[ INFO] [1493322043.320409900]: Scanning area 44
+[ INFO] [1493322044.320396739]: Scanning area 45
+[ INFO] [1493322045.320398086]: Scanning area 46
+[ INFO] [1493322046.320409742]: Scanning area 47
+[ INFO] [1493322047.320449912]: Scanning area 48
+[ INFO] [1493322048.320407996]: Scanning area 49
+[ INFO] [1493322049.320453122]: Scanning area 50
+[ INFO] [1493322050.320421131]: Scanning area 51
+[ INFO] [1493322051.320404226]: Scanning area 52
+[ INFO] [1493322052.320465085]: Scanning area 53
+[ INFO] [1493322053.320451635]: Scanning area 54
+[ INFO] [1493322054.320410777]: Scanning area 55
+[ INFO] [1493322055.320417585]: Scanning area 56
+[ INFO] [1493322056.320413375]: Scanning area 57
+[ INFO] [1493322057.320439084]: Scanning area 58
+[ INFO] [1493322058.320420606]: Scanning area 59
+[ INFO] [1493322059.320420874]: No Soda Found..
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493322085.501252389]: Navigated to known location
+[ INFO] [1493322085.501378421]: Scanning area 0
+[ INFO] [1493322086.260531207]: Found Object
+[ INFO] [1493322086.260691429]: Stopping...
+[ INFO] [1493322086.501499440]: Scanning area 1
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 1
+Searching for Coke
+[ INFO] [1493322119.536755653]: Navigated to known location
+[ INFO] [1493322119.536907894]: Scanning area 0
+[ INFO] [1493322120.537040986]: Scanning area 1
+[ INFO] [1493322121.537090757]: Scanning area 2
+[ INFO] [1493322122.537561417]: Scanning area 3
+[ INFO] [1493322123.537023679]: Scanning area 4
+[ INFO] [1493322124.537020010]: Scanning area 5
+[ INFO] [1493322125.537014602]: Scanning area 6
+[ INFO] [1493322126.537111870]: Scanning area 7
+[ INFO] [1493322127.536983526]: Scanning area 8
+[ INFO] [1493322128.537620097]: Scanning area 9
+[ INFO] [1493322129.537025848]: Scanning area 10
+[ INFO] [1493322130.537033099]: Scanning area 11
+[ INFO] [1493322131.537118836]: Scanning area 12
+[ INFO] [1493322132.537069780]: Scanning area 13
+[ INFO] [1493322133.537929374]: Scanning area 14
+[ INFO] [1493322134.537033605]: Scanning area 15
+[ INFO] [1493322135.537148287]: Scanning area 16
+[ INFO] [1493322136.537043752]: Scanning area 17
+[ INFO] [1493322137.539297558]: Scanning area 18
+[ INFO] [1493322138.537166502]: Scanning area 19
+[ INFO] [1493322139.537021128]: Scanning area 20
+[ INFO] [1493322140.537021480]: Scanning area 21
+[ INFO] [1493322141.537067878]: Scanning area 22
+[ INFO] [1493322142.537021199]: Scanning area 23
+[ INFO] [1493322143.537012669]: Scanning area 24
+[ INFO] [1493322144.537069892]: Scanning area 25
+[ INFO] [1493322145.537028421]: Scanning area 26
+[ INFO] [1493322146.537141171]: Scanning area 27
+[ INFO] [1493322147.537034596]: Scanning area 28
+[ INFO] [1493322148.537120669]: Scanning area 29
+[ INFO] [1493322149.537019386]: Scanning area 30
+[ INFO] [1493322150.537023721]: Scanning area 31
+[ INFO] [1493322151.537038150]: Scanning area 32
+[ INFO] [1493322152.537070664]: Scanning area 33
+[ INFO] [1493322153.537056374]: Scanning area 34
+[ INFO] [1493322154.537035568]: Scanning area 35
+[ INFO] [1493322155.537082374]: Scanning area 36
+[ INFO] [1493322156.537031157]: Scanning area 37
+[ INFO] [1493322157.537530273]: Scanning area 38
+[ INFO] [1493322158.537033541]: Scanning area 39
+[ INFO] [1493322159.537022372]: Scanning area 40
+[ INFO] [1493322160.537019711]: Scanning area 41
+[ INFO] [1493322161.537042347]: Scanning area 42
+[ INFO] [1493322162.537032522]: Scanning area 43
+[ INFO] [1493322163.537015209]: Scanning area 44
+[ INFO] [1493322164.537057155]: Scanning area 45
+[ INFO] [1493322165.537022920]: Scanning area 46
+[ INFO] [1493322166.537046192]: Scanning area 47
+[ INFO] [1493322167.537039092]: Scanning area 48
+[ INFO] [1493322168.537022954]: Scanning area 49
+[ INFO] [1493322169.537103687]: Scanning area 50
+[ INFO] [1493322170.537029357]: Scanning area 51
+[ INFO] [1493322171.537019471]: Scanning area 52
+[ INFO] [1493322172.537052921]: Scanning area 53
+[ INFO] [1493322173.537025767]: Scanning area 54
+[ INFO] [1493322174.537092218]: Scanning area 55
+[ INFO] [1493322175.537029062]: Scanning area 56
+[ INFO] [1493322176.537024397]: Scanning area 57
+[ INFO] [1493322177.537028900]: Scanning area 58
+[ INFO] [1493322178.537020947]: Scanning area 59
+[ INFO] [1493322179.536983953]: No Soda Found..
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: -1
+Have a nice day!
+[ass_main-2] process has finished cleanly
+log file: /home/chloucka/.ros/log/6aa78310-2b7d-11e7-a4f5-c0389650ef2f/ass_main-2*.log
+^C[ass_search-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+chloucka@turtlebot:~/catkin_ws$ roslaunch ASS ASS_front.launch
+WARNING: Package name "ASS" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits and underscores.
+... logging to /home/chloucka/.ros/log/6aa78310-2b7d-11e7-a4f5-c0389650ef2f/roslaunch-turtlebot-14572.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://turtlebot:47999/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: indigo
+ * /rosversion: 1.11.20
+
+NODES
+  /
+    ass_main (ASS/ASS_main_node)
+    ass_search (ASS/ASS_search_node)
+
+ROS_MASTER_URI=http://localhost:11311
+
+core service [/rosout] found
+WARNING: Package name "ASS" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits and underscores.
+process[ass_search-1]: started with pid [14616]
+process[ass_main-2]: started with pid [14617]
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 2
+Searching for Sprite
+[ INFO] [1493322269.799067449]: Navigated to known location
+[ INFO] [1493322269.799340982]: Scanning area 0
+[ INFO] [1493322270.799487658]: Scanning area 1
+[ INFO] [1493322271.799456280]: Scanning area 2
+[ INFO] [1493322272.799429437]: Scanning area 3
+[ INFO] [1493322273.799448294]: Scanning area 4
+[ INFO] [1493322273.880291483]: Found Object
+[ INFO] [1493322273.880490828]: Stopping...
+[ INFO] [1493322274.799451046]: Scanning area 5
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 0
+Searching for Pepsi
+[ INFO] [1493322316.086535497]: Navigated to known location
+[ INFO] [1493322316.086634767]: Scanning area 0
+[ INFO] [1493322317.086748609]: Scanning area 1
+[ INFO] [1493322318.086750365]: Scanning area 2
+[ INFO] [1493322319.086760461]: Scanning area 3
+[ INFO] [1493322320.086748859]: Scanning area 4
+[ INFO] [1493322321.086740738]: Scanning area 5
+[ INFO] [1493322322.086774116]: Scanning area 6
+[ INFO] [1493322323.087395110]: Scanning area 7
+[ INFO] [1493322324.086758954]: Scanning area 8
+[ INFO] [1493322325.086816824]: Scanning area 9
+[ INFO] [1493322326.086765405]: Scanning area 10
+[ INFO] [1493322327.086755375]: Scanning area 11
+[ INFO] [1493322328.086752414]: Scanning area 12
+[ INFO] [1493322329.086894795]: Scanning area 13
+[ INFO] [1493322330.086965867]: Scanning area 14
+[ INFO] [1493322331.086749568]: Scanning area 15
+[ INFO] [1493322332.086801367]: Scanning area 16
+[ INFO] [1493322333.086766652]: Scanning area 17
+[ INFO] [1493322334.086824583]: Scanning area 18
+[ INFO] [1493322335.086759902]: Scanning area 19
+[ INFO] [1493322336.086813405]: Scanning area 20
+[ INFO] [1493322337.086749624]: Scanning area 21
+[ INFO] [1493322338.086759372]: Scanning area 22
+[ INFO] [1493322338.821195433]: Found Object
+[ INFO] [1493322338.821303596]: Stopping...
+[ INFO] [1493322339.086772757]: Scanning area 23
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 3
+Searching for Dr. Pepper
+[ INFO] [1493322367.178094033]: Navigated to known location
+[ INFO] [1493322367.178270036]: Scanning area 0
+[ INFO] [1493322368.178380855]: Scanning area 1
+[ INFO] [1493322369.178403504]: Scanning area 2
+[ INFO] [1493322370.178439101]: Scanning area 3
+[ INFO] [1493322371.178385101]: Scanning area 4
+[ INFO] [1493322372.178399253]: Scanning area 5
+[ INFO] [1493322373.178835676]: Scanning area 6
+[ INFO] [1493322374.178394856]: Scanning area 7
+[ INFO] [1493322375.178392003]: Scanning area 8
+[ INFO] [1493322376.178398451]: Scanning area 9
+[ INFO] [1493322377.178386921]: Scanning area 10
+[ INFO] [1493322378.178393321]: Scanning area 11
+[ INFO] [1493322379.178389593]: Scanning area 12
+[ INFO] [1493322380.178492490]: Scanning area 13
+[ INFO] [1493322381.179018895]: Scanning area 14
+[ INFO] [1493322382.178389879]: Scanning area 15
+[ INFO] [1493322383.178456654]: Scanning area 16
+[ INFO] [1493322384.178394565]: Scanning area 17
+[ INFO] [1493322385.178381932]: Scanning area 18
+[ INFO] [1493322386.178422666]: Scanning area 19
+[ INFO] [1493322387.178395932]: Scanning area 20
+[ INFO] [1493322388.178386910]: Scanning area 21
+[ INFO] [1493322389.178405419]: Scanning area 22
+[ INFO] [1493322390.178400286]: Scanning area 23
+[ INFO] [1493322391.178393077]: Scanning area 24
+[ INFO] [1493322392.178468589]: Scanning area 25
+[ INFO] [1493322393.178447579]: Scanning area 26
+[ INFO] [1493322394.178476336]: Scanning area 27
+[ INFO] [1493322395.178407275]: Scanning area 28
+[ INFO] [1493322396.178543367]: Scanning area 29
+[ INFO] [1493322397.178385152]: Scanning area 30
+[ INFO] [1493322398.178392740]: Scanning area 31
+[ INFO] [1493322399.178389059]: Scanning area 32
+[ INFO] [1493322400.178476524]: Scanning area 33
+[ INFO] [1493322401.178379261]: Scanning area 34
+[ INFO] [1493322402.178385889]: Scanning area 35
+[ INFO] [1493322403.178457909]: Scanning area 36
+[ INFO] [1493322404.178411134]: Scanning area 37
+[ INFO] [1493322405.178390508]: Scanning area 38
+[ INFO] [1493322406.178452219]: Scanning area 39
+[ INFO] [1493322407.178397763]: Scanning area 40
+[ INFO] [1493322408.178384013]: Scanning area 41
+[ INFO] [1493322409.178388912]: Scanning area 42
+[ INFO] [1493322410.178408946]: Scanning area 43
+[ INFO] [1493322411.178390096]: Scanning area 44
+[ INFO] [1493322412.178412456]: Scanning area 45
+[ INFO] [1493322413.178436053]: Scanning area 46
+[ INFO] [1493322414.178387609]: Scanning area 47
+[ INFO] [1493322415.178383173]: Scanning area 48
+[ INFO] [1493322416.178443648]: Scanning area 49
+[ INFO] [1493322417.178387452]: Scanning area 50
+[ INFO] [1493322418.178380902]: Scanning area 51
+[ INFO] [1493322419.178385514]: Scanning area 52
+[ INFO] [1493322420.178385254]: Scanning area 53
+[ INFO] [1493322421.178395446]: Scanning area 54
+[ INFO] [1493322422.178404618]: Scanning area 55
+[ INFO] [1493322423.178479013]: Scanning area 56
+[ INFO] [1493322424.178395396]: Scanning area 57
+[ INFO] [1493322425.178403019]: Scanning area 58
+[ INFO] [1493322426.178434056]: Scanning area 59
+[ INFO] [1493322427.178398442]: No Soda Found..
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: 1
+Searching for Coke
+[ INFO] [1493322452.252827982]: Navigated to known location
+[ INFO] [1493322452.252929784]: Scanning area 0
+[ INFO] [1493322453.253041310]: Scanning area 1
+[ INFO] [1493322454.253048083]: Scanning area 2
+[ INFO] [1493322455.253059810]: Scanning area 3
+[ INFO] [1493322456.253051965]: Scanning area 4
+[ INFO] [1493322457.255640484]: Scanning area 5
+[ INFO] [1493322458.253053628]: Scanning area 6
+[ INFO] [1493322459.253051747]: Scanning area 7
+[ INFO] [1493322460.253062816]: Scanning area 8
+[ INFO] [1493322461.253049822]: Scanning area 9
+[ INFO] [1493322462.253126462]: Scanning area 10
+[ INFO] [1493322463.253704830]: Scanning area 11
+[ INFO] [1493322464.253042391]: Scanning area 12
+[ INFO] [1493322465.253093434]: Scanning area 13
+[ INFO] [1493322466.253045434]: Scanning area 14
+[ INFO] [1493322467.253040253]: Scanning area 15
+[ INFO] [1493322468.253083160]: Scanning area 16
+[ INFO] [1493322469.253034428]: Scanning area 17
+[ INFO] [1493322470.253058505]: Scanning area 18
+[ INFO] [1493322471.253095218]: Scanning area 19
+[ INFO] [1493322472.253075000]: Scanning area 20
+[ INFO] [1493322473.253657076]: Scanning area 21
+[ INFO] [1493322474.253023740]: Scanning area 22
+[ INFO] [1493322475.253105961]: Scanning area 23
+[ INFO] [1493322476.253195802]: Scanning area 24
+[ INFO] [1493322477.253078677]: Scanning area 25
+[ INFO] [1493322478.253122975]: Scanning area 26
+[ INFO] [1493322479.253082332]: Scanning area 27
+[ INFO] [1493322480.253068655]: Scanning area 28
+[ INFO] [1493322481.253323434]: Scanning area 29
+[ INFO] [1493322482.253056841]: Scanning area 30
+[ INFO] [1493322483.253056916]: Scanning area 31
+[ INFO] [1493322484.253103663]: Scanning area 32
+[ INFO] [1493322485.253048475]: Scanning area 33
+[ INFO] [1493322486.253047554]: Scanning area 34
+[ INFO] [1493322487.253058622]: Scanning area 35
+[ INFO] [1493322488.253094520]: Scanning area 36
+[ INFO] [1493322489.253056732]: Scanning area 37
+[ INFO] [1493322490.253045167]: Scanning area 38
+[ INFO] [1493322491.253050103]: Scanning area 39
+[ INFO] [1493322492.253072391]: Scanning area 40
+[ INFO] [1493322493.253045777]: Scanning area 41
+[ INFO] [1493322494.253017662]: Scanning area 42
+[ INFO] [1493322495.253276390]: Scanning area 43
+[ INFO] [1493322496.253041490]: Scanning area 44
+[ INFO] [1493322497.253053614]: Scanning area 45
+[ INFO] [1493322498.253222565]: Scanning area 46
+[ INFO] [1493322499.253048845]: Scanning area 47
+[ INFO] [1493322500.253048345]: Scanning area 48
+[ INFO] [1493322501.253123869]: Scanning area 49
+[ INFO] [1493322502.253005748]: Scanning area 50
+[ INFO] [1493322503.253122339]: Scanning area 51
+[ INFO] [1493322504.253048490]: Scanning area 52
+[ INFO] [1493322505.253087507]: Scanning area 53
+[ INFO] [1493322506.253047417]: Scanning area 54
+[ INFO] [1493322507.253047696]: Scanning area 55
+[ INFO] [1493322508.253158275]: Scanning area 56
+[ INFO] [1493322509.253008988]: Scanning area 57
+[ INFO] [1493322510.253042761]: Scanning area 58
+[ INFO] [1493322511.253059614]: Scanning area 59
+[ INFO] [1493322512.253463755]: No Soda Found..
+--------------------------------------
+What would you like me to find?
+0 - Pepsi
+1 - Coke
+2 - Sprite
+3 - Dr. Pepper
+-1 - to Quit
+--------------------------------------
+Enter Value: ^C[ass_main-2] killing on exit
+[ass_search-1] killing on exit
+[ass_main-2] escalating to SIGTERM
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+chloucka@turtlebot:~/catkin_ws$ 

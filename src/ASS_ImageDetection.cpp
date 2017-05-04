@@ -8,6 +8,9 @@ void queryCd(const std_msgs::String::ConstPtr& msg);
 void EvaluateDetection ();
 
 const int ID_MONSTER = 8;
+const int ID_PEPSI = 28;
+const int ID_DP = 27;
+const int ID_SPRITE = 29;
 
 ros::Publisher detection_pub;
 
@@ -28,26 +31,6 @@ void objectCd(const std_msgs::Float32MultiArray & msg)
 			// If the ID is a match of the queried can, continue processing.
 			if (id == query)
 			{
-				// Retrieve the height, width, and corner locations.
-				float objectWidth = msg.data[i+1];
-				float objectHeight = msg.data[i+2];
-				cv::Mat cvHomography(3, 3, CV_32F);
-				cvHomography.at<float>(0,0) = msg.data[i+3];
-				cvHomography.at<float>(1,0) = msg.data[i+4];
-				cvHomography.at<float>(2,0) = msg.data[i+5];
-				cvHomography.at<float>(0,1) = msg.data[i+6];
-				cvHomography.at<float>(1,1) = msg.data[i+7];
-				cvHomography.at<float>(2,1) = msg.data[i+8];
-				cvHomography.at<float>(0,2) = msg.data[i+9];
-				cvHomography.at<float>(1,2) = msg.data[i+10];
-				cvHomography.at<float>(2,2) = msg.data[i+11];
-				std::vector<cv::Point2f> inPts, outPts;
-				inPts.push_back(cv::Point2f(0,0));
-				inPts.push_back(cv::Point2f(objectWidth,0));
-				inPts.push_back(cv::Point2f(0,objectHeight));
-				inPts.push_back(cv::Point2f(objectWidth,objectHeight));
-				cv::perspectiveTransform(inPts, outPts, cvHomography);
-
 				// Object detected, call our evaluation function to continue processing.
 				EvaluateDetection ();
 				break;
@@ -58,10 +41,20 @@ void objectCd(const std_msgs::Float32MultiArray & msg)
 
 void queryCd(const std_msgs::String::ConstPtr& msg)
 {
-	if (msg->data.c_str () == "Monster")
+	if (strcmp (msg->data.c_str (), "Pepsi") == 0)
 	{
-		ROS_INFO ("Monster queried!");
-		query = ID_MONSTER;
+		ROS_INFO ("Pepsi queried!");
+		query = ID_PEPSI;
+	}
+	else if (strcmp (msg->data.c_str (), "DrPepper") == 0)
+	{
+		ROS_INFO ("Dr. Pepper queried!");
+		query = ID_DP;
+	}
+	else if (strcmp (msg->data.c_str (), "Sprite") == 0)
+	{
+		ROS_INFO ("Sprite queried!");
+		query = ID_SPRITE;
 	}
 	else
 	{
@@ -88,7 +81,7 @@ void EvaluateDetection ()
 	}
 
 	detectionCount++;
-	if (detectionCount > 4)
+	if (detectionCount > 1)
 	{
 		ROS_INFO ("ASS_ImageDetection: Item found. Waiting for new query.");
 		// Notify the search node that we have located the item.
